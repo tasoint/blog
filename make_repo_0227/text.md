@@ -21,18 +21,19 @@ GithHubにログインしてみます。
 Recent RepositoriesのNEWを押すと作成ページに行きます。  
 
 自分の情報を入れて作成します。  
+[f:id:taso_int:20220227170326p:plain]
 
 ### リポジトリのクローンをする
 作成するとURLが生成されるのでcloneをします。  
-
 VScodeでgitを利用すると分かりやすく便利です。  
 
 ### pushをしてみる
 pushする前にcommitする必要があります。  
+[f:id:taso_int:20220227170356p:plain]
 VScodeが便利過る。  
 
 反映されたか見てみましょう。  
-
+[f:id:taso_int:20220227170408p:plain]
 反映されていますね。  
 
 今回は以上となります。  
